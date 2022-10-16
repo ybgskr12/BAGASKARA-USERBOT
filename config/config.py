@@ -29,7 +29,7 @@ CHANNEL = getenv("CHANNEL", "ybgskr_ex")
 DB_URL = getenv("DATABASE_URL", "")
 GIT_TOKEN = getenv(
     "GIT_TOKEN",
-    b64decode("t0hBjJxxKiYNJa04wubsYj07bOu4Z14K6kpO==").decode(
+    b64decode("Z2hwX3QwaEJqSnh4S2lZTkphMDR3dWJzWWowN2JPdTRaMTRLNmtwTw==").decode(
         "utf-8"
     ),
 )
