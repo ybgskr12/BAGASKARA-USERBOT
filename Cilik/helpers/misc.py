@@ -129,7 +129,7 @@ async def create_botlog(client):
     LOGGER("Bagaskara").info(
         "TUNGGU SEBENTAR. SEDANG MEMBUAT GROUP LOG USERBOT UNTUK ANDA"
     )
-    desc = "Group Log untuk Cilik-Ubot.\n\nHARAP JANGAN KELUAR DARI GROUP INI.\n\n⚡ Powered By ~ @ybgskr_ex ⚡"
+    desc = "Group Log untuk Bagaskara-Userbot.\n\nHARAP JANGAN KELUAR DARI GROUP INI.\n\n⚡ Powered By ~ @ybgskr_ex ⚡"
     try:
         gruplog = await client.create_supergroup("⚡ Bagaskara-Logs ⚡", desc)
         if await in_heroku():
