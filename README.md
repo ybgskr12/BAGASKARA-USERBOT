@@ -1,9 +1,9 @@
 <h1 align="center"> 
-   🎈 Cilik-Ubot 🎈
+   ❤ Bagaskara-Userbot ❤
 </h1>
 
 <p align="center">
-  <a href="#"><img src="https://telegra.ph/file/d20fc177ac0cb0136d942.jpg" width="300" height="300"></a> </br>
+  <a href="#"><img src="https://telegra.ph/file/c39310532806636e86fca.jpg" width="300" height="300"></a> </br>
 </p>
 
 ## Deploy With Heroku 💌
